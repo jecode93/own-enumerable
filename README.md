@@ -1,35 +1,5 @@
 # Curriculum databases project
 
-## Getting Started
-
-This repository includes files with plain Ruby:
-
-
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -56,9 +26,9 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [own enumerable] <a name="about-project"></a>
 
-> In this project, I use a relational database to create the initial data structure for  Medical clinic . I create a table to store patient's information, insert some data into it, and query it.
+> In this project, I Create a class `MyList` that has an instance variable `@list`, and in `MyList` we implement a method `#each` that yields successive members of `@list` and uses the `MyEnumerable` module.
 
-**[own enumerable]** this ruby project that create to modules and imports them .
+**[Own enumerable]** this ruby project that create modules and imports them .
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
