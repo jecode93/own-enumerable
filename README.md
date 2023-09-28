@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
-- Clone the [project using github](https://github.com/hetrox8/Decode-Message.git)
+- Clone the [project using github](https://github.com/jecode93/own-enumerable.git)
 
 
 
